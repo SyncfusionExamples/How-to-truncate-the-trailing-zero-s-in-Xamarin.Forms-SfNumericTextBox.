@@ -1,6 +1,6 @@
 # How to truncate the trailing zero's in Xamarin.Forms SfNumericTextBox
 
-This repository contains sample for how to truncate the trailing zero's in the [Syncfusion Xamarin.Forms Numeric TextBox](https://help.syncfusion.com/xamarin/numeric-entry/getting-started) control.
+This repository contains sample to truncate the trailing zero's in the [Syncfusion Xamarin.Forms Numeric TextBox](https://help.syncfusion.com/xamarin/numeric-entry/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/11749/how-to-truncate-the-trailing-zeros-in-xamarin-forms-numeric-control-sfnumerictextbox).
 
